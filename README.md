@@ -35,10 +35,3 @@ Feel free to contribute to our projects, report issues, and suggest improvements
 
 Happy automating and deploying!
 
-## License
-
-This repository and its projects are open-source and provided under the [LICENSE NAME](LICENSE URL). You are free to use, modify, and distribute the content as per the terms of the license.
-
----
-
-If you're using a specific license, make sure to replace `[LICENSE NAME]` and `[LICENSE URL]` with the actual license name and URL. Additionally, you can include sections like "Contributing," "Issues," and "Acknowledgments" to provide more information and engage with potential contributors and users.
